@@ -22,7 +22,6 @@ The website is publicly accessible over HTTPS through CloudFront, providing impr
 - [Screenshots](#screenshots)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Learning Outcomes](#learning-outcomes)
-- [Future Improvements](#future-improvements)
 - [Author](#author)
 - [License](#license)
 
