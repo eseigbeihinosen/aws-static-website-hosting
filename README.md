@@ -1,5 +1,12 @@
 # AWS Static Website Hosting with Amazon S3 & CloudFront
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?logo=amazons3)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon-CloudFront-8C4FFF?logo=amazonaws)
+![IAM](https://img.shields.io/badge/AWS-IAM-orange?logo=amazonaws)
+![HTTPS](https://img.shields.io/badge/HTTPS-Secure-green)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A cloud project demonstrating how to host a static website using **Amazon S3** and deliver it securely over **Amazon CloudFront**.
 
 ---
